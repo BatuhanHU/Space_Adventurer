@@ -1,2 +1,2 @@
 # Space_Adventurer
-This is my frist game
+This is my first game
