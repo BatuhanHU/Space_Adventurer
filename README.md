@@ -1,2 +1,2 @@
 # Space_Adventurer
-This is my first game
+The 2D shooter game with using kivy
